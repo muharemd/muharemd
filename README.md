@@ -47,8 +47,8 @@ I started out administering AIX boxes at IBM. Today I automate and secure platfo
 ---
 
 ### 📈 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=muharemd&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muharemd&layout=compact&hide_border=true)
 
 ---
 
